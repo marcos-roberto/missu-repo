@@ -1,0 +1,278 @@
+:root {
+  --mdui-ref-palette-error0: 0, 0, 0;
+  /* Error 10 */
+  --mdui-ref-palette-error10: 175, 0, 10;
+  /* Error 15 */
+  --mdui-ref-palette-error15: 84, 0, 3;
+  /* Error 20 */
+  --mdui-ref-palette-error20: 195, 19, 30;
+  /* Error 30 */
+  --mdui-ref-palette-error30: 215, 39, 50;
+  /* Error 40 */
+  --mdui-ref-palette-error40: 235, 59, 70;
+  /* Error 50 */
+  --mdui-ref-palette-error50: 255, 79, 90;
+  /* Error 60 */
+  --mdui-ref-palette-error60: 255, 99, 110;
+  /* Error 70 */
+  --mdui-ref-palette-error70: 255, 119, 130;
+  /* Error 80 */
+  --mdui-ref-palette-error80: 255, 169, 180;
+  /* Error 90 */
+  --mdui-ref-palette-error90: 255, 199, 210;
+  /* Error 95 */
+  --mdui-ref-palette-error95: 255, 219, 230;
+  /* Error 99 */
+  --mdui-ref-palette-error99: 248, 248, 248;
+  /* Error 100 */
+  --mdui-ref-palette-error100: 255, 255, 255;
+  /* Tertiary 0 */
+  --mdui-ref-palette-tertiary0: 0, 0, 0;
+  /* Tertiary 10 */
+  --mdui-ref-palette-tertiary10: 9, 0, 81;
+  /* Tertiary 20 */
+  --mdui-ref-palette-tertiary20: 29, 20, 101;
+  /* Tertiary 30 */
+  --mdui-ref-palette-tertiary30: 49, 40, 121;
+  /* Tertiary 40 */
+  --mdui-ref-palette-tertiary40: 69, 60, 141;
+  /* Tertiary 50 */
+  --mdui-ref-palette-tertiary50: 99, 90, 171;
+  /* Tertiary 60 */
+  --mdui-ref-palette-tertiary60: 119, 110, 191;
+  /* Tertiary 70 */
+  --mdui-ref-palette-tertiary70: 139, 130, 211;
+  /* Tertiary 80 */
+  --mdui-ref-palette-tertiary80: 179, 170, 251;
+  /* Tertiary 90 */
+  --mdui-ref-palette-tertiary90: 209, 200, 255;
+  /* Tertiary 95 */
+  --mdui-ref-palette-tertiary95: 229, 220, 255;
+  /* Tertiary 99 */
+  --mdui-ref-palette-tertiary99: 248, 248, 248;
+  /* Tertiary 100 */
+  --mdui-ref-palette-tertiary100: 255, 255, 255;
+  /* Secondary 0 */
+  --mdui-ref-palette-secondary0: 0, 0, 0;
+  /* Secondary 10 */
+  --mdui-ref-palette-secondary10: 0, 0, 0;
+  /* Secondary 20 */
+  --mdui-ref-palette-secondary20: 29, 25, 43;
+  /* Secondary 30 */
+  --mdui-ref-palette-secondary30: 51, 45, 65;
+  /* Secondary 40 */
+  --mdui-ref-palette-secondary40: 74, 68, 88;
+  /* Secondary 50 */
+  --mdui-ref-palette-secondary50: 98, 91, 113;
+  /* Secondary 60 */
+  --mdui-ref-palette-secondary60: 122, 114, 137;
+  /* Secondary 70 */
+  --mdui-ref-palette-secondary70: 149, 141, 165;
+  /* Secondary 80 */
+  --mdui-ref-palette-secondary80: 176, 167, 192;
+  /* Secondary 90 */
+  --mdui-ref-palette-secondary90: 204, 194, 220;
+  /* Secondary 95 */
+  --mdui-ref-palette-secondary95: 232, 222, 248;
+  /* Secondary 99 */
+  --mdui-ref-palette-secondary99: 255, 251, 254;
+  /* Secondary 100 */
+  --mdui-ref-palette-secondary100: 255, 255, 255;
+  /* Primary 0 */
+  --mdui-ref-palette-primary0: 0, 0, 0;
+  /* Primary 10 */
+  --mdui-ref-palette-primary10: 145, 0, 0;
+  /* Primary 20 */
+  --mdui-ref-palette-primary20: 195, 12, 0;
+  /* Primary 30 */
+  --mdui-ref-palette-primary30: 255, 52, 0;
+  /* Primary 40 */
+  --mdui-ref-palette-primary40: 255, 72, 0;
+  /* Primary 50 */
+  --mdui-ref-palette-primary50: 255, 92, 20;
+  /* Primary 60 */
+  --mdui-ref-palette-primary60: 255, 112, 40;
+  /* Primary 70 */
+  --mdui-ref-palette-primary70: 255, 152, 80;
+  /* Primary 80 */
+  --mdui-ref-palette-primary80: 255, 182, 110;
+  /* Primary 90 */
+  --mdui-ref-palette-primary90: 255, 212, 140;
+  /* Primary 95 */
+  --mdui-ref-palette-primary95: 255, 242, 170;
+  /* Primary 99 */
+  --mdui-ref-palette-primary99: 255, 251, 254;
+  /* Primary 100 */
+  --mdui-ref-palette-primary100: 255, 255, 255;
+  /* Neutral Variant 0 */
+  --mdui-ref-palette-neutral-variant0: 0, 0, 0;
+  /* Neutral Variant 10 */
+  --mdui-ref-palette-neutral-variant10: 65, 58, 55;
+  /* Neutral Variant 20 */
+  --mdui-ref-palette-neutral-variant20: 85, 78, 75;
+  /* Neutral Variant 30 */
+  --mdui-ref-palette-neutral-variant30: 105, 98, 95;
+  /* Neutral Variant 40 */
+  --mdui-ref-palette-neutral-variant40: 125, 118, 115;
+  /* Neutral Variant 50 */
+  --mdui-ref-palette-neutral-variant50: 145, 138, 135;
+  /* Neutral Variant 60 */
+  --mdui-ref-palette-neutral-variant60: 165, 158, 155;
+  /* Neutral Variant 70 */
+  --mdui-ref-palette-neutral-variant70: 185, 178, 175;
+  /* Neutral Variant 80 */
+  --mdui-ref-palette-neutral-variant80: 225, 218, 215;
+  /* Neutral Variant 90 */
+  --mdui-ref-palette-neutral-variant90: 245, 238, 235;
+  /* Neutral Variant 95 */
+  --mdui-ref-palette-neutral-variant95: 255, 244, 240;
+  /* Neutral Variant 99 */
+  --mdui-ref-palette-neutral-variant99: 255, 251, 254;
+  /* Neutral Variant 100 */
+  --mdui-ref-palette-neutral-variant100: 255, 255, 255;
+  /* Neutral 0 */
+  --mdui-ref-palette-neutral0: 0, 0, 0;
+  /* Neutral 4 */
+  --mdui-ref-palette-neutral4: 13, 16, 24;
+  /* Neutral 10 */
+  --mdui-ref-palette-neutral10: 53, 56, 64;
+  /* Neutral 12 */
+  --mdui-ref-palette-neutral12: 59, 62, 70;
+  /* Neutral 17 */
+  --mdui-ref-palette-neutral17: 67, 70, 78;
+  /* Neutral 20 */
+  --mdui-ref-palette-neutral20: 73, 76, 84;
+  /* Neutral 22 */
+  --mdui-ref-palette-neutral22: 79, 82, 90;
+  /* Neutral 24 */
+  --mdui-ref-palette-neutral24: 83, 86, 94;
+  /* Neutral 30 */
+  --mdui-ref-palette-neutral30: 93, 96, 104;
+  /* Neutral 40 */
+  --mdui-ref-palette-neutral40: 113, 116, 124;
+  /* Neutral 50 */
+  --mdui-ref-palette-neutral50: 133, 136, 144;
+  /* Neutral 60 */
+  --mdui-ref-palette-neutral60: 153, 156, 164;
+  /* Neutral 70 */
+  --mdui-ref-palette-neutral70: 173, 176, 184;
+  /* Neutral 80 */
+  --mdui-ref-palette-neutral80: 224, 224, 224;
+  /* Neutral 87 */
+  --mdui-ref-palette-neutral87: 213, 216, 224;
+  /* Neutral 90 */
+  --mdui-ref-palette-neutral90: 239, 239, 239;
+  /* Neutral 92 */
+  --mdui-ref-palette-neutral92: 244, 244, 244;
+  /* Neutral 94 */
+  --mdui-ref-palette-neutral94: 246, 246, 246;
+  /* Neutral 96 */
+  --mdui-ref-palette-neutral96: 248, 248, 248;
+  /* Neutral 95 */
+  --mdui-ref-palette-neutral95: 246, 246, 246;
+  /* Neutral Variant 98 */
+  --mdui-ref-palette-neutral98: 250, 249, 249;
+  /* Neutral 99 */
+  --mdui-ref-palette-neutral99: 255, 251, 254;
+  /* Neutral 100 */
+  --mdui-ref-palette-neutral100: 255, 255, 255;
+  /* Black */
+  --mdui-ref-palette-black: 0, 0, 0;
+  /* White */
+  --mdui-ref-palette-white: 255, 255, 255;
+
+  /* Extended Colors */
+  /* Success  0*/
+  --mdui-ref-palette-success0: 0, 0, 0;
+  /* Success  10*/
+  --mdui-ref-palette-success10: 0, 33, 9;
+  /* Success  20*/
+  --mdui-ref-palette-success20: 13, 65, 22;
+  /* Success  30*/
+  --mdui-ref-palette-success30: 33, 85, 42;
+  /* Success  40*/
+  --mdui-ref-palette-success40: 53, 105, 62;
+  /* Success  50*/
+  --mdui-ref-palette-success50: 73, 125, 82;
+  /* Success  60*/
+  --mdui-ref-palette-success60: 93, 145, 102;
+  /* Success  70*/
+  --mdui-ref-palette-success70: 103, 155, 112;
+  /* Success  80*/
+  --mdui-ref-palette-success80: 143, 201, 146;
+  /* Success  90*/
+  --mdui-ref-palette-success90: 183, 241, 186;
+  /* Success  95*/
+  --mdui-ref-palette-success95: 203, 255, 206;
+  /* Success  99*/
+  --mdui-ref-palette-success99: 239, 255, 248;
+  /* Success  100*/
+  --mdui-ref-palette-success100: 255, 255, 255;
+  /* Warning  0*/
+  --mdui-ref-palette-warning0: 0, 0, 0;
+  /* Warning  10*/
+  --mdui-ref-palette-warning10: 177, 127, 0;
+  /* Warning  20*/
+  --mdui-ref-palette-warning20: 207, 157, 28;
+  /* Warning  30*/
+  --mdui-ref-palette-warning30: 227, 177, 48;
+  /* Warning  40*/
+  --mdui-ref-palette-warning40: 247, 197, 68;
+  /* Warning  50*/
+  --mdui-ref-palette-warning50: 255, 217, 88;
+  /* Warning  60*/
+  --mdui-ref-palette-warning60: 255, 237, 108;
+  /* Warning  70*/
+  --mdui-ref-palette-warning70: 255, 255, 128;
+  /* Warning  80*/
+  --mdui-ref-palette-warning80: 255, 255, 158;
+  /* Warning  90*/
+  --mdui-ref-palette-warning90: 255, 255, 198;
+  /* Warning  95*/
+  --mdui-ref-palette-warning95: 255, 255, 218;
+  /* Warning  99*/
+  --mdui-ref-palette-warning99: 255, 255, 240;
+  /* Warning  100*/
+  --mdui-ref-palette-warning100: 255, 255, 255;
+  /* Information  0*/
+  --mdui-ref-palette-information0: 0, 0, 0;
+  /* Information  10*/
+  --mdui-ref-palette-information10: 11, 21, 75;
+  /* Information  20*/
+  --mdui-ref-palette-information20: 35, 44, 97;
+  /* Information  30*/
+  --mdui-ref-palette-information30: 58, 67, 121;
+  /* Information  40*/
+  --mdui-ref-palette-information40: 82, 90, 146;
+  /* Information  50*/
+  --mdui-ref-palette-information50: 102, 110, 166;
+  /* Information  60*/
+  --mdui-ref-palette-information60: 132, 140, 196;
+  /* Information  70*/
+  --mdui-ref-palette-information70: 172, 180, 236;
+  /* Information  80*/
+  --mdui-ref-palette-information80: 187, 195, 255;
+  /* Information  90*/
+  --mdui-ref-palette-information90: 222, 224, 255;
+  /* Information  95*/
+  --mdui-ref-palette-information95: 242, 244, 255;
+  /* Information  99*/
+  --mdui-ref-palette-information99: 239, 251, 255;
+  /* Information  100*/
+  --mdui-ref-palette-information100: 255, 255, 255;
+  /* On Background Light */
+  --mdui-ref-palette-on-background-light: 35, 25, 23;
+  /* Background Light */
+  --mdui-ref-palette-background-light: 246, 246, 246;
+  /* On Background Dark */
+  --mdui-ref-palette-on-background-dark: 241, 223, 218;
+  /* Background Dark */
+  --mdui-ref-palette-background-dark: 26, 17, 15;
+  /* Surface Tint Light*/
+  --mdui-ref-palette-on-surface-tint-light: 143, 76, 56;
+  /* Surface Tint Dark*/
+  --mdui-ref-palette-on-surface-tint-dark: 255, 181, 160;
+
+	--mdui-ref-palette-surface-variant-bright-dark: 0,0,0;
+	--mdui-ref-palette-surface-variant-bright-light: 255, 244, 240;
+}

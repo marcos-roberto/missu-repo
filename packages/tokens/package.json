@@ -1,0 +1,20 @@
+{
+  "name": "@repo/tokens",
+  "version": "0.1.0",
+  "description": "Biblioteca de tokens baseada em Material Design 3",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc && node-sass src/sass -o dist/styles/css --output-style compressed && cp -r src/sass dist/styles/scss"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "typescript": "^5.4.5"
+  },
+  "files": [
+    "dist/"
+  ]
+}
